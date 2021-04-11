@@ -1,0 +1,71 @@
+body {
+  text-align: center;
+  background-color: #1687a7;
+}
+
+#level-title {
+  font-family:"Montserrat"sans-serif,'Press Start 2P' ;
+  font-size: 3rem;
+  margin:  3%;
+  color: #d8d3cd;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid white;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: #ef4f4f;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: #c70039;
+}
+
+.green {
+  background-color: #81b214;
+}
+
+.blue {
+  background-color: #11698e;
+}
+
+.yellow {
+  background-color: #fff76a;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.endline{
+  font-family: "Montserrat",sans-serif;
+  color: #132743;
+  font-size: 30px;
+  padding:3.5%;
+}
+
+#ria {
+font-size: 15px;
+color: #0f3057;
+}
+
+#line{
+font-family: "Montserrat",sans-serif;
+color: #132743;
+
+}
